@@ -1,0 +1,3 @@
+[submodule "upperline-basic-sinatra-template"]
+	path = upperline-basic-sinatra-template
+	url = https://github.com/upperlinecode/upperline-basic-sinatra-template.git
